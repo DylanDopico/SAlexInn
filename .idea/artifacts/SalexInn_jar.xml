@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SalexInn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SalexInn_jar</output-path>
+    <root id="archive" name="SalexInn.jar">
+      <element id="module-output" name="SalexInn" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/forDriver/json-20220924.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/forDriver/mysql-connector-j-8.0.31.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
